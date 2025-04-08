@@ -1,6 +1,6 @@
 # dio-ia-generativa
 
-foi solicitado ao Copilot que informace o que estava escrito na imagem, ele conseguiu dizer tudo que estava escrito, só não exatamente na mesma ordem conforme imagem a seguir:
+Foi solicitado ao Copilot que informace o que estava escrito na imagem, ele conseguiu dizer tudo que estava escrito, só não exatamente na mesma ordem conforme imagem a seguir:
 
 ![Anotação 2025-04-08 090628](https://github.com/user-attachments/assets/dc35a015-b142-476d-8a09-a9576d625ab5)
 
